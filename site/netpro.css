@@ -5,6 +5,6 @@ body{
     background-size : 100% 100%;
 }
 .page{
-    width: auto;
+    width: 100vh;
     height: auto;
 }
