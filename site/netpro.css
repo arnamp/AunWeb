@@ -5,6 +5,12 @@ body{
     background-size : 100% 100%;
 }
 .page{
-    width: 230vh;
+    width: auto;
     height: auto;
+}
+@media only screen and (min-width:360px) and (max-width:760px){
+    .page{
+        width: 150vh;
+        height: 100%;
+    }
 }
