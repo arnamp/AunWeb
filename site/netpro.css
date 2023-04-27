@@ -2,7 +2,7 @@ body{
     background-image : url('01.gif');
     background-repeat : no-repeat;
     background-attachment : fixed;
-    background-size : 100vh 100vh;
+    background-size : 100% 100%;
 }
 .page{
     width: auto;
@@ -12,5 +12,8 @@ body{
     .page{
         width: 100vh;
         height: auto;
+    }
+    .body{
+        background-size: 100vh auto;
     }
 }
