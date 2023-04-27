@@ -2,7 +2,7 @@ body{
     background-image : url('01.gif');
     background-repeat : no-repeat;
     background-attachment : fixed;
-    background-size : auto;
+    background-size : 100vh 100vh;
 }
 .page{
     width: auto;
@@ -10,7 +10,7 @@ body{
 }
 @media only screen and (min-width:360px) and (max-width:760px){
     .page{
-        width: 150vh;
+        width: 100vh;
         height: auto;
     }
 }
