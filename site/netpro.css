@@ -10,10 +10,10 @@ body{
 }
 @media only screen and (min-width:360px) and (max-width:760px){
     .page{
-        width: 200vh;
-        height: auto;
+        width: 100vh;
+        height: 100vh;
     }
     .body{
-        background-size: 200vh auto;
+        background-size: 100vh 100vh;
     }
 }
