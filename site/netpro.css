@@ -13,7 +13,4 @@ body{
         width: 100vh;
         height: 100vh;
     }
-    .body{
-        background-size: 100% 100vh;
-    }
 }
